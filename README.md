@@ -1,5 +1,5 @@
 # ProjectForOOP
-#LeisureForPleasure
+# LeisureForPleasure
 
 Темою даного проекту є розробка програми "Відпочинок з задоволенням".
 
