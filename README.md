@@ -19,15 +19,3 @@
 2. Щербак М.П.
 
 ## UML-diagram 
-
-<?php
-class Man
-{
-
-}
-
-class Programmer extends Man
-{
-
-}
-?>
