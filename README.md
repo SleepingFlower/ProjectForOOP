@@ -20,3 +20,4 @@
 3. Мелюх В.Є.
 
 ## UML-diagram 
+![alt text](classDiagram.jpeg) 
